@@ -1,0 +1,17 @@
+{
+  "name": "zero-bugs-kata",
+  "version": "1.0.0",
+  "description": "Refactor the legacy code",
+  "main": "game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "refactoring"
+  ],
+  "author": "nashit",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
